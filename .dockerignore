@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+npm-debug.log
+
+# Next.js build outputs
+.next
+out
+
+# Local env files
+.env*.local
+
+# Git files
+.git
+.gitignore
+
+# Docker configuration files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# OS metadata files
+.DS_Store
+Thumbs.db
